@@ -1,0 +1,1 @@
+list(APPEND CMAKE_MODULE_PATH "${cmake_extras_demo_pkg_DIR}/../../../@CATKIN_PACKAGE_SHARE_DESTINATION@/cmake/Modules")

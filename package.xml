@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <name>cmake_extras_demo_pkg</name>
+  <version>0.0.1</version>
+  <description>Demonstrate the inclusion extra CMake Files</description>
+  <maintainer email="alex.gutenkunst@gmail.com">Alexander Gutenkunst</maintainer>
+  <author email="alex.gutenkunst@gmail.com">Alexander Gutenkunst</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
